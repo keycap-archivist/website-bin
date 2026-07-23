@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://keycap-archivist.com/sitemap.xml
+Host: https://keycap-archivist.com
